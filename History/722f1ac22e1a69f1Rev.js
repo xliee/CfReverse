@@ -1,10 +1,10 @@
 // window._cf_chl_opt={
 //   cvId: "2",
 //   cType: "managed",
-//   cNounce: "47688",
-//   cRay: "723f575bef5723f7",
-//   cHash: "b0d0dcd732f28e9",
-//   cUPMDTk: "\/caballeros\/basket\/accesorios\/mitchell-and-ness\/gorra-mitchell-and-ness-bulls-in-a-galaxy-tie-dye\/p\/000000000000251432?__cf_chl_tk=saZgAyc8XwWgicMT2jG3HUt0rtzu58NM5QdJfzaolN8-1656680600-0-gaNycGzNB-U",
+//   cNounce: "24624",
+//   cRay: "72318f99a96e2355",
+//   cHash: "ecfd8f1af5d0b04",
+//   cUPMDTk: "\/caballeros\/basket\/accesorios\/mitchell-and-ness\/gorra-mitchell-and-ness-bulls-in-a-galaxy-tie-dye\/p\/000000000000251432?__cf_chl_tk=AqRx42Rj8ozdsBCXgBAqYaCLg35hL.sRp98mT1NAIYQ-1656536103-0-gaNycGzNB2U",
 //   cFPWv: "b",
 //   cTTimeMs: "1000",
 //   cLt: "n",
@@ -12,35 +12,71 @@
 //     ru: "aHR0cHM6Ly93d3cuaW5udmljdHVzLmNvbS9jYWJhbGxlcm9zL2Jhc2tldC9hY2Nlc29yaW9zL21pdGNoZWxsLWFuZC1uZXNzL2dvcnJhLW1pdGNoZWxsLWFuZC1uZXNzLWJ1bGxzLWluLWEtZ2FsYXh5LXRpZS1keWUvcC8wMDAwMDAwMDAwMDAyNTE0MzI=",
 //     ra: "TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwMy4wLjUwNjAuNTMgU2FmYXJpLzUzNy4zNg==",
 //     rm: "R0VU",
-//     d: "g9ilpUc/EBq3kNzk51Bj15jXHG/9k+66dhhCx1ICY9Sl8Y3LbICqnJSB9wIn//wFuNsAfsAl1O0qatIW/sWQjbqzDAoNK5mctfX+vNgwqDMooXEpJgKr5HAkVJWL4KceTl7DrA8rijlyMedOjgk3TBbdqqdqn2DZVlQAax78qKyTg7gd7fxXAtdyW75HRYtNywUZP71TWmbJV4Qu5VREGCHOokWKKCvBkRwZSlWPXrVkVeYT622EjwxKi+HO/Gszl0JqMDcqWkzeqstrlciq5TjTQArPT41TLynTsXqHD67VF5AWDJZpxFz7AW6cHfBhIs4+2SO3qKUhH9O2XGry2S/fEYk6hsPtpLessdhKGRhbBysSjq3dN0XAdnKPiQzTSt4GGTidn8VJGW1OWl0uOji8YLxc61WFSmKwIXfIRX3yagOmCvtMEnDKHzxk2GKYi1JZCczQ0TJ8jwgPZBOVNGnclYVkvNOMDUh3wF590qkiRC0bNgZ5TVmJjucbv16MWuHUf8QTkYcfNU02gmr8MJU8xWXtWI2hGZYWS5fSzVaRt1/Vj6mTnHvbU+zPiCM1G3eRDXx7dSoAoIouFwVyW+wOu3m2tgz1r/fcAq1Ou1j9FhbWIteFOme/lji8Jmz1kdVPkHS6VPDkw9PZjoeprA==",
-//     t: "MTY1NjY4MDYwMC45ODcwMDA=",
-//     m: "8JzS+H6Uevt3Bf3ggZBpF9nTm05SMRFnvhS82PsZClA=",
-//     i1: "saBFeVWDakJJe8W0BHJ+nw==",
-//     i2: "SIsfU9PWu18W9ycN3Bpfbw==",
+//     d: "P7VF/v2cQ/iWO2Lu2TgLQuoSds47eYPynvvMeX6ToUrYsNzXag+YXKjlHOWMRfxebPbdclNaz1D2a5K0NX+zSPNqL/E79Fp16v3JgGzCvgjCR029aRXxsKWdW8cCIdivMQTJ7GOvwXJ6byKx1kUg5Chwd7RTfUydpKmadh34ZlnKc320th7KmHImUGAzXJ2BqM6RDqWsINa4/qp92eXkOcxrMESk7bS1JnscXTNpjd2owHuoLoWsFoji3U2L1bI76v3JPBA7ss4t5wfTgX1ki1Kq3BODDpmkFOsIkHq4pOi4ygpeYxlqlfIZlo3jGel0+v0wcdzIzHb1840hv24QhW+M51xAm2ihQlsgSckPjXjM1OCaF1bVE6/SGEztXvJ/yNf3mv0kEJR3KApBgp7fTdQGiD9YoIPhmCK6Ivx4Cz/qO7e/rz2K2fvp9LwYRwTuAwTwSS7Ctnn9/EvxN4bAHgMkzGvX3XaA54oGuAMwYdgYJYC/CiQsc0oTrQBQINkBnFopV6H3hRL409VfTIygOu2qb8140Q1DveAdZuoUzsK+q4pjTPvdGkYMDIofCrmxoPsXgM9bxNnHN0+UZPHf5PTfxlltIqqJ+u5qaUz2dPa46pf3A1PYS2RMLHNj9JZQ",
+//     t: "MTY1NjUzNjEwMy45NTUwMDA=",
+//     m: "SAk9Fiaphq5pOH5UiK6UnAvObICXB4C0MZkObRVuYWA=",
+//     i1: "PSX/40JBCtCOiWrWTf1LqA==",
+//     i2: "DHymH3eNEuE2UcYo8JM9Zg==",
 //     zh: "AkyjE5lcJ32T5gwLUqUs7Kx36QI9b8wZUioOnG4YAE0=",
 //     uh: "oR/mG2Rn/6dj1Xt1sHADBr05pczmJajMjEpX2EVa/p0=",
 //     hh: "8D1voajk9osLg0UNEd+bMBJgmTBsmaaBjozZ3bEuf8U=",
 //   }
 // };
 
-
 //https://innvictus.com/cdn-cgi/challenge-platform/h/b/orchestrate/managed/v1?ray=722f1ac22e1a69f1
 
-const alphabet = "5bWQV1BYM4O6euj+vE39NrCgck$HxRhtKyqPnITaS7mszL8w0XGU2fiFoADdpZl-J"
-const challengeId = '0.6473628744475544:1656678027:iPjchEz7AfC4VcBU-XeCpsAr-FFMpICao3g8PAukE-0'
+const alphabet = "+Wce0G7OmBiRyH15btqprQ$8S2XNkPYE3w6xfaZD9-CVFThMvLAUgsuonzdlIJ4jK"
+const challengeId = '0.7337133170607737:1656623259:sI9l9-09DKYICnRMlgPuis6IxMtoX2UThv49g34OVBA'
 
 window._cf_chl_opt.uaSR = false;
-// debugger;
-~(function (f, m, r, q, p, g) {
+debugger;
+~(function (f, m, r, q, p, g, e, d, c, b) {
   debugger;
 
 
-  var d = this || self
-  var e = d.document
-
-  d._cf_chl_hload = function () {
+  (d = this || self),
+  (e = d.document),
+  (d._cf_chl_hload = function () {
     d._cf_chl_hloaded = true;
-  }
+  });
+
+  // 0 - hcaptcha load 
+  f.push(function () {
+    debugger; // hcaptcha load
+    var C = false
+    var E = e.createElement("script")
+    E.type = "text/javascript"
+    origin = "https://cloudflare.hcaptcha.com/1/api.js?endpoint=https%3A%2F%2Fcloudflare.hcaptcha.com&assethost=https%3A%2F%2Fcf-assets.hcaptcha.com&imghost=https%3A%2F%2Fcf-imgs.hcaptcha.com&"
+    E.src = origin + "render=explicit&recaptchacompat=off&onload=_cf_chl_hload"
+    E.onerror = D
+    e.getElementsByTagName("head")[0].appendChild(E);
+    d._cf_chl_hlep = "2"
+    d.setTimeout(D, 3500) // start d after 3.5 seconds
+    function D(I, H, G, F) {
+      if (d._cf_chl_hloaded) return;
+      if (C) return;
+      C = true;
+      I = "cf";
+      e.getElementById("jc-spinner-please-wait") && (I = "jc");
+      H = e.getElementById(I + "-spinner-please-wait");
+      H && I === "cf"
+        ? (H.innerHTML +=
+            '<p class="' +
+            I +
+            "-alert " +
+            I +
+            '-alert-error">This is taking longer than expected, check your Internet connection and reload the page if the problem persists.</p>')
+        : H &&
+          (I === "jc" || I === "yjs") &&
+          (H.innerHTML +=
+            '<p class="' +
+            I +
+            "-alert " +
+            I +
+            '-alert-error">&#x76ee;&#x524d;&#x82b1;&#x8d39;&#x65f6;&#x95f4;&#x6bd4;&#x9884;&#x671f;&#x65f6;&#x95f4;&#x8981;&#x957f;&#xff0c;&#x5982;&#x679c;&#x8be5;&#x95ee;&#x9898;&#x4ecd;&#x7136;&#x5b58;&#x5728;&#xff0c;&#x8bf7;&#x68c0;&#x67e5;&#x7f51;&#x7edc;&#x8fde;&#x63a5;&#x5e76;&#x91cd;&#x65b0;&#x52a0;&#x8f7d;&#x754c;&#x9762;</p>');
+    }
+    return true
+  });
 
   // decoderesponse
   /**
@@ -50,6 +86,14 @@ window._cf_chl_opt.uaSR = false;
    */
   function g (A, H, G, F, F, E, D, C, B) {
     for (
+      B = {},
+        B.MiYsr = function (I, J) {
+          return I + J;
+        },
+        B.trXPG = function (I, J) {
+          return I % J;
+        },
+        C = B,
         E = 32,
         F = d._cf_chl_opt.cRay + "_" + 0,
         F = F.replace(/./g, function (I, J) {
@@ -598,44 +642,6 @@ window._cf_chl_opt.uaSR = false;
     }
   };
 
-  
-  // 0 - hcaptcha load 
-  f.push(function () {
-    var C = false
-    var E = e.createElement("script")
-    E.type = "text/javascript"
-    origin = "https://cloudflare.hcaptcha.com/1/api.js?endpoint=https%3A%2F%2Fcloudflare.hcaptcha.com&assethost=https%3A%2F%2Fcf-assets.hcaptcha.com&imghost=https%3A%2F%2Fcf-imgs.hcaptcha.com&"
-    E.src = origin + "render=explicit&recaptchacompat=off&onload=_cf_chl_hload"
-    E.onerror = D
-    e.getElementsByTagName("head")[0].appendChild(E);
-    d._cf_chl_hlep = "2"
-    d.setTimeout(D, 3500) // start d after 3.5 seconds
-    function D(I, H, G, F) {
-      if (d._cf_chl_hloaded) return;
-      if (C) return;
-      C = true;
-      I = "cf";
-      e.getElementById("jc-spinner-please-wait") && (I = "jc");
-      H = e.getElementById(I + "-spinner-please-wait");
-      H && I === "cf"
-        ? (H.innerHTML +=
-            '<p class="' +
-            I +
-            "-alert " +
-            I +
-            '-alert-error">This is taking longer than expected, check your Internet connection and reload the page if the problem persists.</p>')
-        : H &&
-          (I === "jc" || I === "yjs") &&
-          (H.innerHTML +=
-            '<p class="' +
-            I +
-            "-alert " +
-            I +
-            '-alert-error">&#x76ee;&#x524d;&#x82b1;&#x8d39;&#x65f6;&#x95f4;&#x6bd4;&#x9884;&#x671f;&#x65f6;&#x95f4;&#x8981;&#x957f;&#xff0c;&#x5982;&#x679c;&#x8be5;&#x95ee;&#x9898;&#x4ecd;&#x7136;&#x5b58;&#x5728;&#xff0c;&#x8bf7;&#x68c0;&#x67e5;&#x7f51;&#x7edc;&#x8fde;&#x63a5;&#x5e76;&#x91cd;&#x65b0;&#x52a0;&#x8f7d;&#x754c;&#x9762;</p>');
-    }
-    return true
-  });
-
   // 1 - Check if browser is valid 
   f.push(function () {
     l(); // Check if browser is valid
@@ -669,7 +675,6 @@ window._cf_chl_opt.uaSR = false;
     return true;
   });
 
-  // 5 - proxy query selector
   f.push(function () {
     // proxy query selector
     d._cf_chl_ctx.ffs = false;
@@ -687,7 +692,6 @@ window._cf_chl_opt.uaSR = false;
 
   });
 
-  // 6 - Set Challenge to done
   f.push(function (B, A) {
     d.setTimeout(function () {
       d._cf_chl_done();
@@ -700,6 +704,7 @@ window._cf_chl_opt.uaSR = false;
    * Cloudflare challenge enter 
    */
   d._cf_chl_enter = function (J, I, H, G, F, E, D, C, B, A) {
+    debugger;
     if (d._cf_chl_opt.cLt !== "d") d._cf_chl_opt.cLt = "d"; 
     else return;
 
@@ -743,8 +748,8 @@ window._cf_chl_opt.uaSR = false;
 
     t("cf_chl_prog", "e", 1); // set progress to end
     
-    I = d._cf_chl_opt.cFPWv ? "h/" + d._cf_chl_opt.cFPWv + "/" : "";
-    J = `/cdn-cgi/challenge-platform/${I}flow/ov1/${challengeId}/${d._cf_chl_opt.cRay}/${d._cf_chl_opt.cHash}`;
+    I = d._cf_chl_opt.cFPWv ? "h/" + d._cf_chl_opt.cFPWv : "";
+    J = `/cdn-cgi/challenge-platform/${I}/flow/ov1/${challengeId}/${d._cf_chl_opt.cRay}/${d._cf_chl_opt.cHash}`;
     
     n(function () {
       setTimeout(d.sendRequest, 100, J);
@@ -817,356 +822,439 @@ window._cf_chl_opt.uaSR = false;
   /**
    * LZ functions
    */
-  r = {
-    /**
-     * compress lz
-     * 
-     */
-    h: function (F) {
-      return null == F
-        ? ""
-        : r.g(F, 6, function (G) {
-            return alphabet.charAt(G);
-          });
-    },
-    /**
-     * lz._compress(uncompressed, bitsPerChar, getCharFromInt)
-     * @param {*} F uncompressed
-     * @param {*} G bitsPerChar
-     * @param {*} H getCharFromInt
-     * @returns   LZ compressed string
-     */
-    g: function (
-      F,
-      G,
-      H,
-      X,
-      W,
-      V,
-      U,
-      T,
-      S,
-      R,
-      Q,
-      P,
-      O,
-      N,
-      M,
-      L,
-      K,
-      J,
-      I
-    ) {
-      if (null == F) return "";
-      for (
-        L = {},
-          M = {},
-          N = "",
-          O = 2,
-          P = 3,
-          Q = 2,
-          R = [],
-          S = 0,
-          T = 0,
-          U = 0;
-        U < F.length;
-        U += 1
-      )
-        if (
-          ((V = F.charAt(U)),
-          Object.prototype.hasOwnProperty.call(L, V) ||
-            ((L[V] = P++), (M[V] = !0)),
-          (W = N + V),
-          Object.prototype.hasOwnProperty.call(L, W))
-        )
-          N = W;
-        else {
-          if (Object.prototype.hasOwnProperty.call(M, N)) {
+  r = (function (E, D, C, B, A) {
+    return (
+      (A = {}),
 
-            if (256 > N.charCodeAt(0)) {
+      (A.lNfjy = function (F, G) {
+        return F(G);
+      }),
+      (A.sZPTE = function (F, G) {
+        return F - G;
+      }),
+      (A.HbEkH = function (F, G) {
+        return F - G;
+      }),
+      (A.HfObE = function (F, G) {
+        return F | G;
+      }),
+      (A.ApuOD = function (F, G) {
+        return F & G;
+      }),
+      (A.gDyTt = function (F, G) {
+        return F == G;
+      }),
+      (A.eqogs = function (F, G) {
+        return F | G;
+      }),
+      (A.UJLSV = function (F, G) {
+        return F & G;
+      }),
+      (A.BnSYZ = function (F, G) {
+        return F < G;
+      }),
+      (A.wjCZS = function (F, G) {
+        return F << G;
+      }),
+      (A.oMrJB = function (F, G) {
+        return F == G;
+      }),
+      (A.ulwpa = function (F, G) {
+        return F & G;
+      }),
+      (A.yWVis = function (F, G) {
+        return F > G;
+      }),
+      (A.WrGXW = "2|0|4|1|3"),
+      (A.tVPdj = function (F, G) {
+        return F * G;
+      }),
+      (A.LUQda = function (F, G) {
+        return F(G);
+      }),
+      (A.tbvZZ = function (F, G) {
+        return F(G);
+      }),
+      (A.QyHpq = function (F, G) {
+        return F * G;
+      }),
+      (A.TQaDD = function (F, G) {
+        return F != G;
+      }),
+      (A.OtKVe = function (F, G) {
+        return F & G;
+      }),
+      (A.Gwczo = function (F, G) {
+        return F(G);
+      }),
+      (A.XHSrN = function (F, G) {
+        return F - G;
+      }),
+      (A.hpxMM = function (F, G) {
+        return F + G;
+      }),
+      (B = A),
+      (C = String.fromCharCode),
+      (D = {
+        /**
+         * compress lz
+         * 
+         */
+        h: function (F) {
+          return null == F
+            ? ""
+            : D.g(F, 6, function (G) {
+                return alphabet.charAt(G);
+              });
+        },
+        /**
+         * lz._compress(uncompressed, bitsPerChar, getCharFromInt)
+         * @param {*} F uncompressed
+         * @param {*} G bitsPerChar
+         * @param {*} H getCharFromInt
+         * @returns   LZ compressed string
+         */
+        g: function (
+          F,
+          G,
+          H,
+          X,
+          W,
+          V,
+          U,
+          T,
+          S,
+          R,
+          Q,
+          P,
+          O,
+          N,
+          M,
+          L,
+          K,
+          J,
+          I
+        ) {
+          if (null == F) return "";
+          for (
+            L = {},
+              M = {},
+              N = "",
+              O = 2,
+              P = 3,
+              Q = 2,
+              R = [],
+              S = 0,
+              T = 0,
+              U = 0;
+            U < F.length;
+            U += 1
+          )
+            if (
+              ((V = F.charAt(U)),
+              Object.prototype.hasOwnProperty.call(L, V) ||
+                ((L[V] = P++), (M[V] = !0)),
+              (W = N + V),
+              Object.prototype.hasOwnProperty.call(L, W))
+            )
+              N = W;
+            else {
+              if (Object.prototype.hasOwnProperty.call(M, N)) {
+
+                if (256 > N.charCodeAt(0)) {
+                  for (
+                    K = 0;
+                    K < Q;
+                    S <<= 1,
+                      T == G - 1 ? ((T = 0), R.push(H(S)), (S = 0)) : T++,
+                      K++
+                  );
+                  for (
+                    X = N.charCodeAt(0), K = 0;
+                    8 > K;
+                    S = (S << 1) | (X & 1),
+                      T == G - 1
+                        ? ((T = 0), R.push(B.lNfjy(H, S)), (S = 0))
+                        : T++,
+                      X >>= 1,
+                      K++
+                  );
+                } else {
+                  if ("ASICs" === "ASICs") {
+                    for (
+                      X = 1, K = 0;
+                      K < Q;
+                      S = (S << 1) | X,
+                        T == G - 1 ? ((T = 0), R.push(H(S)), (S = 0)) : T++,
+                        X = 0,
+                        K++
+                    );
+                    for (
+                      X = N.charCodeAt(0), K = 0;
+                      16 > K;
+                      S = (S << 1) | (X & 1),
+                        T == G - 1 ? ((T = 0), R.push(H(S)), (S = 0)) : T++,
+                        X >>= 1,
+                        K++
+                    );
+                  } else
+                    function Z(a0) {
+                      (a0 = W & L),
+                        (F >>= 1),
+                        0 == s && ((P = M), (C = D(x++))),
+                        (y |= (0 < a0 ? 1 : 0) * z),
+                        (A <<= 1);
+                    }
+                }
+                O--, 0 == O && ((O = Math.pow(2, Q)), Q++), delete M[N];
+                
+              } else {
+                for (
+                  X = L[N], K = 0;
+                  K < Q;
+                  S = (S << 1) | (X & 1),
+                    T == G - 1
+                      ? ((T = 0), R.push(B.lNfjy(H, S)), (S = 0))
+                      : T++,
+                    X >>= 1,
+                    K++
+                );
+              }
+              N =
+                (O--,
+                0 == O && ((O = Math.pow(2, Q)), Q++),
+                (L[W] = P++),
+                B.lNfjy(String, V));
+            }
+          if ("" !== N) {
+            if (Object.prototype.hasOwnProperty.call(M, N)) {
+              if (256 > N.charCodeAt(0)) {
+                for (
+                  K = 0;
+                  K < Q;
+                  S <<= 1,
+                    T == G - 1 ? ((T = 0), R.push(H(S)), (S = 0)) : T++,
+                    K++
+                );
+                for (
+                  X = N.charCodeAt(0), K = 0;
+                  8 > K;
+                  S = (S << 1) | (X & 1),
+                    T == G - 1
+                      ? ((T = 0), R.push(B.lNfjy(H, S)), (S = 0))
+                      : T++,
+                    X >>= 1,
+                    K++
+                );
+              } else {
+                for (
+                  X = 1, K = 0;
+                  K < Q;
+                  S = (S << 1) | X,
+                    T == G - 1 ? ((T = 0), R.push(H(S)), (S = 0)) : T++,
+                    X = 0,
+                    K++
+                );
+                for (
+                  X = N.charCodeAt(0), K = 0;
+                  16 > K;
+                  S = (S << 1) | (X & 1),
+                    T == G - 1 ? ((T = 0), R.push(H(S)), (S = 0)) : T++,
+                    X >>= 1,
+                    K++
+                );
+              }
+              O--, 0 == O && ((O = Math.pow(2, Q)), Q++), delete M[N];
+            } else {
               for (
-                K = 0;
+                X = L[N], K = 0;
                 K < Q;
-                S <<= 1,
-                  T == G - 1 ? ((T = 0), R.push(H(S)), (S = 0)) : T++,
-                  K++
-              );
-              for (
-                X = N.charCodeAt(0), K = 0;
-                8 > K;
                 S = (S << 1) | (X & 1),
                   T == G - 1
-                    ? ((T = 0), R.push(H(S)), (S = 0))
+                    ? ((T = 0), R.push(B.lNfjy(H, S)), (S = 0))
                     : T++,
                   X >>= 1,
                   K++
               );
-            } else {
-              
-              for (
-                X = 1, K = 0;
-                K < Q;
-                S = (S << 1) | X,
-                  T == G - 1 ? ((T = 0), R.push(H(S)), (S = 0)) : T++,
-                  X = 0,
-                  K++
-              );
-              for (
-                X = N.charCodeAt(0), K = 0;
-                16 > K;
-                S = (S << 1) | (X & 1),
-                  T == G - 1 ? ((T = 0), R.push(H(S)), (S = 0)) : T++,
-                  X >>= 1,
-                  K++
-              );
-              
             }
-            O--, 0 == O && ((O = Math.pow(2, Q)), Q++), delete M[N];
-            
-          } else {
-            for (
-              X = L[N], K = 0;
-              K < Q;
-              S = (S << 1) | (X & 1),
-                T == G - 1
-                  ? ((T = 0), R.push(H(S)), (S = 0))
-                  : T++,
-                X >>= 1,
-                K++
-            );
+            O--, 0 == O && Q++;
           }
-          N =
-            (O--,
-            0 == O && ((O = Math.pow(2, Q)), Q++),
-            (L[W] = P++),
-            String(V));
-        }
-      if ("" !== N) {
-        if (Object.prototype.hasOwnProperty.call(M, N)) {
-          if (256 > N.charCodeAt(0)) {
-            for (
-              K = 0;
-              K < Q;
-              S <<= 1,
-                T == G - 1 ? ((T = 0), R.push(H(S)), (S = 0)) : T++,
-                K++
-            );
-            for (
-              X = N.charCodeAt(0), K = 0;
-              8 > K;
-              S = (S << 1) | (X & 1),
-                T == G - 1
-                  ? ((T = 0), R.push(H(S)), (S = 0))
-                  : T++,
-                X >>= 1,
-                K++
-            );
-          } else {
-            for (
-              X = 1, K = 0;
-              K < Q;
-              S = (S << 1) | X,
-                T == G - 1 ? ((T = 0), R.push(H(S)), (S = 0)) : T++,
-                X = 0,
-                K++
-            );
-            for (
-              X = N.charCodeAt(0), K = 0;
-              16 > K;
-              S = (S << 1) | (X & 1),
-                T == G - 1 ? ((T = 0), R.push(H(S)), (S = 0)) : T++,
-                X >>= 1,
-                K++
-            );
-          }
-          O--, 0 == O && ((O = Math.pow(2, Q)), Q++), delete M[N];
-        } else {
           for (
-            X = L[N], K = 0;
+            X = 2, K = 0;
             K < Q;
             S = (S << 1) | (X & 1),
-              T == G - 1
-                ? ((T = 0), R.push(H(S)), (S = 0))
-                : T++,
+              T == G - 1 ? ((T = 0), R.push(B.lNfjy(H, S)), (S = 0)) : T++,
               X >>= 1,
               K++
           );
-        }
-        O--, 0 == O && Q++;
-      }
-      for (
-        X = 2, K = 0;
-        K < Q;
-        S = (S << 1) | (X & 1),
-          T == G - 1 ? ((T = 0), R.push(H(S)), (S = 0)) : T++,
-          X >>= 1,
-          K++
-      );
-      for (;;)
-        if (((S <<= 1), T == G - 1)) {
-          R.push(H(S));
-          break;
-        } else T++;
-      return R.join("");
-    },
-    j: function (F) {
-      return null == F
-        ? ""
-        : "" == F
-        ? null
-        : r.i(F.length, 32768, function (G) { //decompress lz
-            return F.charCodeAt(G);
-          });
-    },
-    /**
-      * lz._decompress(length, resetValue, getNextValue)
-      * @param {*} F length
-      * @param {*} G resetValue
-      * @param {*} H getNextValue
-      * @returns   LZ compressed string
-      */
-    i: function (
-      F,
-      G,
-      H,
-      X,
-      W,
-      V,
-      U,
-      T,
-      S,
-      R,
-      Q,
-      P,
-      O,
-      N,
-      M,
-      L,
-      K,
-      J,
-      I
-    ) {
-      if ("ZpNVb" === "QcFLo")
-        function Y() {
-          return;
-        }
-      else {
-        for (
-          I = [],
-            J = 4,
-            K = 4,
-            L = 3,
-            M = [],
-            P = H(0),
-            Q = G,
-            R = 1,
-            N = 0;
-          3 > N;
-          I[N] = N, N += 1
-        );
-        for (S = 0, T = Math.pow(2, 2), O = 1; O != T; )
-          for (U = "2|0|4|1|3".split("|"), V = 0; true; ) {
-            switch (U[V++]) {
-              case "0":
-                Q >>= 1;
-                continue;
-              case "1":
-                S |= (0 < W ? 1 : 0) * O;
-                continue;
-              case "2":
-                W = P & Q;
-                continue;
-              case "3":
-                O <<= 1;
-                continue;
-              case "4":
-                0 == Q && ((Q = G), (P = H(R++)));
-                continue;
+          for (;;)
+            if (((S <<= 1), T == G - 1)) {
+              R.push(H(S));
+              break;
+            } else T++;
+          return R.join("");
+        },
+        j: function (F) {
+          return null == F
+            ? ""
+            : "" == F
+            ? null
+            : D.i(F.length, 32768, function (G) { //decompress lz
+                return F.charCodeAt(G);
+              });
+        },
+        /**
+         * lz._decompress(length, resetValue, getNextValue)
+         * @param {*} F length
+         * @param {*} G resetValue
+         * @param {*} H getNextValue
+         * @returns   LZ compressed string
+         */
+        i: function (
+          F,
+          G,
+          H,
+          X,
+          W,
+          V,
+          U,
+          T,
+          S,
+          R,
+          Q,
+          P,
+          O,
+          N,
+          M,
+          L,
+          K,
+          J,
+          I
+        ) {
+          if ("ZpNVb" === "QcFLo")
+            function Y() {
+              return;
             }
-            break;
-          }
-        switch (S) {
-          case 0:
-            for (
-              S = 0, T = Math.pow(2, 8), O = 1;
-              O != T;
-              W = P & Q,
-                Q >>= 1,
-                0 == Q && ((Q = G), (P = H(R++))),
-                S |= (0 < W ? 1 : 0) * O,
-                O <<= 1
-            );
-            X = String.fromCharCode(S);
-            break;
-          case 1:
-            for (
-              S = 0, T = Math.pow(2, 16), O = 1;
-              O != T;
-              W = P & Q,
-                Q >>= 1,
-                0 == Q && ((Q = G), (P = H(R++))),
-                S |= (0 < W ? 1 : 0) * O,
-                O <<= 1
-            );
-            X = String.fromCharCode(S);
-            break;
-          case 2:
-            return "";
-        }
-        for (N = I[3] = X, M.push(X); ; ) {
-          if (R > F) return "";
-          for (
-            S = 0, T = Math.pow(2, L), O = 1;
-            O != T;
-            W = P & Q,
-              Q >>= 1,
-              0 == Q && ((Q = G), (P = H(R++))),
-              S |= (0 < W ? 1 : 0) * O,
-              O <<= 1
-          );
-          switch ((X = S)) {
-            case 0:
-              for (
-                S = 0, T = Math.pow(2, 8), O = 1;
-                O != T;
-                W = P & Q,
-                  Q >>= 1,
-                  0 == Q && ((Q = G), (P = H(R++))),
-                  S |= (0 < W ? 1 : 0) * O,
-                  O <<= 1
-              );
-              (I[K++] = String.fromCharCode(S)), (X = K - 1), J--;
-              break;
-            case 1:
-              for (
-                S = 0, T = Math.pow(2, 16), O = 1;
-                O != T;
-                W = P & Q,
-                  Q >>= 1,
-                  0 == Q && ((Q = G), (P = H(R++))),
-                  S |= (0 < W ? 1 : 0) * O,
-                  O <<= 1
-              );
-              (I[K++] = String.fromCharCode(S)), (X = K - 1), J--;
-              break;
-            case 2:
-              return M.join("");
-          }
-          if ((0 == J && ((J = Math.pow(2, L)), L++), I[X])) X = I[X];
           else {
-            if (X === K) X = N + N.charAt(0);
-            else return null;
+            for (
+              I = [],
+                J = 4,
+                K = 4,
+                L = 3,
+                M = [],
+                P = H(0),
+                Q = G,
+                R = 1,
+                N = 0;
+              3 > N;
+              I[N] = N, N += 1
+            );
+            for (S = 0, T = Math.pow(2, 2), O = 1; O != T; )
+              for (U = "2|0|4|1|3".split("|"), V = 0; true; ) {
+                switch (U[V++]) {
+                  case "0":
+                    Q >>= 1;
+                    continue;
+                  case "1":
+                    S |= (0 < W ? 1 : 0) * O;
+                    continue;
+                  case "2":
+                    W = P & Q;
+                    continue;
+                  case "3":
+                    O <<= 1;
+                    continue;
+                  case "4":
+                    0 == Q && ((Q = G), (P = B.LUQda(H, R++)));
+                    continue;
+                }
+                break;
+              }
+            switch (S) {
+              case 0:
+                for (
+                  S = 0, T = Math.pow(2, 8), O = 1;
+                  O != T;
+                  W = P & Q,
+                    Q >>= 1,
+                    0 == Q && ((Q = G), (P = H(R++))),
+                    S |= (0 < W ? 1 : 0) * O,
+                    O <<= 1
+                );
+                X = B.LUQda(C, S);
+                break;
+              case 1:
+                for (
+                  S = 0, T = Math.pow(2, 16), O = 1;
+                  O != T;
+                  W = P & Q,
+                    Q >>= 1,
+                    0 == Q && ((Q = G), (P = B.tbvZZ(H, R++))),
+                    S |= (0 < W ? 1 : 0) * O,
+                    O <<= 1
+                );
+                X = B.tbvZZ(C, S);
+                break;
+              case 2:
+                return "";
+            }
+            for (N = I[3] = X, M.push(X); ; ) {
+              if (R > F) return "";
+              for (
+                S = 0, T = Math.pow(2, L), O = 1;
+                O != T;
+                W = P & Q,
+                  Q >>= 1,
+                  0 == Q && ((Q = G), (P = H(R++))),
+                  S |= (0 < W ? 1 : 0) * O,
+                  O <<= 1
+              );
+              switch ((X = S)) {
+                case 0:
+                  for (
+                    S = 0, T = Math.pow(2, 8), O = 1;
+                    O != T;
+                    W = P & Q,
+                      Q >>= 1,
+                      0 == Q && ((Q = G), (P = H(R++))),
+                      S |= (0 < W ? 1 : 0) * O,
+                      O <<= 1
+                  );
+                  (I[K++] = C(S)), (X = K - 1), J--;
+                  break;
+                case 1:
+                  for (
+                    S = 0, T = Math.pow(2, 16), O = 1;
+                    O != T;
+                    W = P & Q,
+                      Q >>= 1,
+                      0 == Q && ((Q = G), (P = H(R++))),
+                      S |= (0 < W ? 1 : 0) * O,
+                      O <<= 1
+                  );
+                  (I[K++] = B.Gwczo(C, S)), (X = K - 1), J--;
+                  break;
+                case 2:
+                  return M.join("");
+              }
+              if ((0 == J && ((J = Math.pow(2, L)), L++), I[X])) X = I[X];
+              else {
+                if (X === K) X = N + N.charAt(0);
+                else return null;
+              }
+              M.push(X),
+                (I[K++] = N + X.charAt(0)),
+                J--,
+                (N = X),
+                0 == J && ((J = Math.pow(2, L)), L++);
+            }
           }
-          M.push(X),
-            (I[K++] = N + X.charAt(0)),
-            J--,
-            (N = X),
-            0 == J && ((J = Math.pow(2, L)), L++);
-        }
-      }
-    },
-  }
-
+        },
+      }),
+      D
+    );
+  })()
+  
   
   d.onerror = function (A, B, C, D, E, J, I, H, G, F) {
     if (
@@ -1261,6 +1349,7 @@ window._cf_chl_opt.uaSR = false;
     var G = y() // G = new XMLHttpRequest();
     if (!G) return;
       
+    debugger;
 
     G.open("POST", _url, true);
     
@@ -1278,13 +1367,13 @@ window._cf_chl_opt.uaSR = false;
       if (G.readyState != 4) return;
       if (G.status != 200 && G.status != 304) return void F();
 
+      x(G); 
       new d.Function(g(G.responseText))();
     }
     // _cf_chl_ctx.ie -> click/touch/mouse/pointer/keydown events count. Has to be 25
     // _cf_chl_ctx.chC
     // _cf_chl_ctx.ffs -> something with queryselector proxy
-    debugger;
-    I = r.h(JSON.stringify(d._cf_chl_ctx)).replace("+", "%2b"); // LZ Compress the data
+    I = r.h(JSON.stringify(d._cf_chl_ctx)).replace("+", "%2b");
 
     G.send("v_" + d._cf_chl_opt.cRay + "=" + I);
   }
@@ -1437,9 +1526,9 @@ window._cf_chl_opt.uaSR = false;
   }
 
   function n(A) {
-    debugger;
     var D = d.parseInt(s("cf_chl_rc_m"));
     var E = false
+    debugger; //check D
     if (isNaN(D) || D < 50)
       return void A();
     var F = e.getElementById("cf-spinner-allow-5-secs")
@@ -1472,10 +1561,6 @@ window._cf_chl_opt.uaSR = false;
       (E = true), F && (F.innerHTML = K), I && clearInterval(I), A();
     }
   }
-
-  /**
-   * set Event Listeners 
-   */
   function o(A, H, G, F, D, C, B) {
     (B = {}),
       (B.pxUAX = "touchstart"),
@@ -1555,9 +1640,8 @@ window._cf_chl_opt.uaSR = false;
    * @param {*} D 
    */
   function v(D, C, B, A) {
-      debugger;
-      console.log("reloading....")
-      var C = d.parseInt(s("cf_chl_rc_m")); // retry count
+
+      var C = d.parseInt(s("cf_chl_rc_m"));
       if(isNaN(C)) C = 0;
       var delay = 1e3 * d.Math.min(2 << C, 128);
 
@@ -1577,7 +1661,14 @@ window._cf_chl_opt.uaSR = false;
     try {
 
       var I = d._cf_chl_opt.cFPWv ? "h/" + d._cf_chl_opt.cFPWv + "/" : ""; 
-      var postUrl = `/cdn-cgi/challenge-platform/${I}beacon/ov1/${challengeId}/${d._cf_chl_opt.cRay}/${d._cf_chl_opt.cHash}`;
+      var postUrl =
+        "/cdn-cgi/challenge-platform/" + I +
+        "beacon/ov" +
+        1 +
+        "/0.27909185369226786:1656594511:ZOl2qwTXLNhatLfe1Owc6dLHhOVnxNKNYWwA2BMtqvA/" +
+        d._cf_chl_opt.cRay +
+        "/" +
+        d._cf_chl_opt.cHash;
 
       var httpClient = y(); // create new XMLHttpRequest() object
       if (!httpClient) return;
@@ -1593,19 +1684,19 @@ window._cf_chl_opt.uaSR = false;
       G.msg = A;
       G.cc = d._cf_chl_ctx[d._cf_chl_ctx.chC];
       G.prog = s("cf_chl_prog"); // get progress
-      debugger;
-      H = r.h(JSON.stringify(G)).replace("+", "%2b"); // LZ Compress the data
+      H = r.h(JSON.stringify(G)).replace("+", "%2b");
 
       httpClient.send("v_" + d._cf_chl_opt.cRay + "=" + H);
 
     } catch (err) {}
   }
+  function x(A) {}
 
   /**
    * create new XMLHttpRequest request object
    * @returns XMLHttpRequest Object
    */
-  function y() {
+  function y(B, A) {
     if (d.XMLHttpRequest)
       return new d.XMLHttpRequest();
     if (d.ActiveXObject)

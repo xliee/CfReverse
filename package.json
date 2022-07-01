@@ -1,5 +1,5 @@
 {
-  "name": "cloudflare-deobfuscator",
+  "name": "cf-reverse-engineered",
   "version": "1.0.0",
   "description": "A dynamic deobfuscator for cloudflare antibot obfuscation.",
   "main": "dist/index.js",
@@ -9,16 +9,23 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ffeelix/cloudflare-deobfuscator.git"
+    "url": "git+https://github.com/xliee/CfReverse.git"
   },
   "author": "flusk",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ffeelix/cloudflare-deobfuscator/issues"
+    "url": "https://github.com/xliee/CfReverse"
   },
-  "homepage": "https://github.com/ffeelix/cloudflare-deobfuscator#readme",
+  "homepage": "https://github.com/xliee/CfReverse",
   "dependencies": {
+    "axios": "^0.27.2",
+    "lz-string": "^1.4.4",
+    "prompt-sync": "^4.2.0",
+    "refactor-plugin-common": "^2.0.1",
     "shift-ast": "^7.0.0",
     "shift-refactor": "^2.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.0.0"
   }
 }
